@@ -1,3 +1,2 @@
 # OverLand
-
-OverLand Bot est le bot officiel du serveur OverLand
+Repository officiel du serveur OverLand !
